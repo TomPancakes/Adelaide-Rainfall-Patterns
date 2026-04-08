@@ -1,1 +1,12 @@
 Hello. Let me test my commit. 
+
+In this project, I plan on looking into rainfall patterns. 
+Specifically, about whether rainfall as a whole is trending down
+
+I plan on using: 
+Python w/ library. 
+
+
+I may look into UV indexes also.
+
+rainfall data sourced from: https://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?p_nccObsCode=136&p_display_type=dailyDataFile&p_startYear=2025&p_c=-105813574&p_stn_num=02300
