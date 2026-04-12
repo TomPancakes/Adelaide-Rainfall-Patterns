@@ -29,11 +29,11 @@ Analysis of rainfall patterns in Adelaide, using historical data from BOM spanni
 
 ## Key Visualisations
 ### Monthly Average Rainfall
-![Monthly Average](images/monthly_average.png)
+![Monthly Average](images/monthly_rainfall.png)
 
-### Annual Rainfall 1839-2024
-![Annual Rainfall](images/annual_rainfall.png)
+### Annual Rainfall 1839-2024 10 Year Averages
+![Annual Rainfall](images/10_year_average.png)
 
 ### Winter Rainfall Trend
-![Winter Trend](images/winter_rainfall_trend.png)
+![Winter Trend](images/winter_average.png)
 
