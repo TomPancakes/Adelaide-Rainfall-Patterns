@@ -25,3 +25,15 @@ Analysis of rainfall patterns in Adelaide, using historical data from BOM spanni
 3. Install depedencies. 'pip install pandas matplotlib numpy'
 4. Open rain.ipynb
 5. Run all cells in order
+
+
+## Key Visualisations
+### Monthly Average Rainfall
+![Monthly Average](images/monthly_average.png)
+
+### Annual Rainfall 1839-2024
+![Annual Rainfall](images/annual_rainfall.png)
+
+### Winter Rainfall Trend
+![Winter Trend](images/winter_rainfall_trend.png)
+
