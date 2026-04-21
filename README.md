@@ -6,7 +6,7 @@ Analysis of rainfall patterns in Adelaide, using historical data from BOM spanni
  
 ## Key Findings: 
 - Total annual rainfall seems to have remained reasonably stable since beginning recording. 
-- Winter months show a slightly more pronounced downward trend, but not singnifcant
+- Winter months show a slightly more pronounced downward trend, but not significant
 - Rain variability has slightly increased post 1970 vs prior. (SD: 107-117) 
 
 ## Tools used
