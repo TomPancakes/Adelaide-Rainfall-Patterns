@@ -1,5 +1,5 @@
 
-# Adelaide Rainfall Analysis :)
+# Adelaide Rainfall Analysis 
 
 ## Overview: 
 Analysis of rainfall patterns in Adelaide, using historical data from BOM spanning 1839-2026. (https://www.bom.gov.au/). This project was written part curiosity, part python data analysis practice. 
